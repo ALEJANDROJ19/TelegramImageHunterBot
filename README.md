@@ -4,7 +4,7 @@
 
 Project under development.
 
-##TODO:
+## TODO:
 
 - Hashes for each chat/user
 - SQlite instead textfile
